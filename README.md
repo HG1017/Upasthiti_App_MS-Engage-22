@@ -30,7 +30,7 @@ Then, open the folder as a project in Android Studio.
 Connect the system with a mobile phone (through USB cable, and enable file transfer), turn on the developer mode in the mobile. 
 Keep USB debugging on, in the phone. Name of the phone should then appear in the paired devices section.
 
-Now, run the app through android studio and that will prompt the user to intall the app in the mobile phone. 
+Now, run the app through android studio and that will prompt the user to install the app in the mobile phone. 
 
 Give the permission to install the app, and also to access the camera after opening the app.
 
